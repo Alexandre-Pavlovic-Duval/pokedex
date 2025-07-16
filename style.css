@@ -18,7 +18,7 @@ h1 {
 }
 
 #pokemonContainer {
-	background-color: '#fceaff';
+	background-color: #fceaff;
 	display: flex;
 	flex-wrap: wrap;
 	align-items: space-between;
